@@ -13,7 +13,7 @@ Raul Fernandez: https://github.com/rjf02
 
 ## Dataset Description 
 
-The dataset is sourced from incidents of crime in the City of Los Angeles dating back to 2020. The data is transcribed from original crime reports that are typed on paper.There are 847726 columns and 28 rows. 
+The dataset is derived from crime occurrences that occurred in Los Angeles City between 2020 and present. The data is transcribed from original crime reports that are typed on paper.There are 28 rows and 847726 columns. 
 
  
 
